@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import { useEffect } from "react";
 import * as Sentry from "@sentry/react";
 
 export default function ErrorTest() {
